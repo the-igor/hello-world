@@ -3,6 +3,6 @@ To test &amp; discuss random stuff
 
 Hi Everyone,
 
-I am happy to join the GitHub community! Feel free to comment on anything you see here. My projects are mainly focused on hacking and cybersecurity with occasional spins to other IT areas. Enjoy!
+I am happy to join the GitHub community! My projects are focused mainly on hacking and cybersecurity with occasional spins to other IT areas. Feel free to comment on anything you see here. Enjoy!
 
 Igor
